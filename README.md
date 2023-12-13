@@ -24,8 +24,8 @@ This project is a lightweight web clone inspired by Spotify, built using only HT
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/spotify-web-clone.git
-    cd spotify-web-clone
+    git clone https://github.com/dev-himanshu01/Spotify-Clone.github.io.git
+    cd Spotify-Clone.github.io.git
     ```
 
 2. Open `index.html` in your preferred web browser.
